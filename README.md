@@ -36,5 +36,5 @@
 
 ---
 
-> "The best 'System Architect' is the human who knows when to say 'No' to the machine."
+> "The best 'System Architect' is the human who knows when to say 'No' to the machine."  
 > — **The Petrov Protocol**
