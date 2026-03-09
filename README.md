@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Hi 👋, I'm Ayan Raza</h1>
-  <h3>System Architect | Python & C++ | Human-Centric AGI Development</h3>
+  <h3>System Architect | Python & C++ | Human-Centric AI & AGI Architecture</h3>
   
   <img src="https://komarev.com/ghpvc/?username=ayandev7&label=Visitors&color=487693&style=flat" alt="ayandev7" />
 </div>
 
 ---
 
-### 🔭 The Lab
+### 🔭 Lab Projects
 - **Current Project:** `info_console` — High-efficiency CLI/API orchestration.
-- **Focus:** Advanced algorithms and the intersection of High-Level logic with Hardware efficiency.
-- **Learning:** AGI & Deep Learning architectures to leverage high-performance Python systems.
+- **Focus:** Advanced algorithms and bridging high-level logic with hardware efficiency.
+- **Learning:** AI & AGI system architectures to build scalable, high-performance Python systems.
 
 > "When something is important enough, you do it even if the odds are not in your favor."  
 > — **Elon Musk**
@@ -18,9 +18,9 @@
 ---
 
 ### 💬 Technical Consulting
-- **Ask me about:** Algorithmic logic, Python system design, and the Petrov Protocol.
-- **Reach me:** `ask.ayanraza.7@gmail.com`
-- **⚡ Fun fact:** I sketch my system algorithms on physical paper before writing a single line of Code. If it doesn't make sense in ink, it won't make sense in code.
+- **Ask me about:** Algorithmic logic, Python/C++ system design, and the Petrov Protocol.
+- **Reach me at:** `ask.ayanraza.7@gmail.com`
+- **⚡ Note:** I sketch system architectures on paper before coding. If it doesn’t make sense in ink, it won’t make sense in code.
 
 ---
 
@@ -37,5 +37,5 @@
 
 ---
 
-> "The best 'System Architect' is the human who knows when to say 'No' to the machine."  
+> "The best system architect is the human who knows when to say 'No' to the machine."  
 > — **The Petrov Protocol**
