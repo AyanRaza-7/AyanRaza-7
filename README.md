@@ -10,9 +10,9 @@
 ### 🔭 Lab & Experiments
 - **Focus Areas:** High-performance system design, Python & C++ architecture, AI/AGI integration, and scalable solutions.
 - **Learning:** Advanced algorithms, system optimization, hardware-aware software, and practical AI/ML applications.
-- **Approach:** Plan on paper → implement in code → optimize for performance and simplicity.
 
-> "Less is more. Complexity hides problems; simplicity reveals them."  
+> "When something is important enough, you do it even if the odds are not in your favor."  
+> — **Elon Musk**
 
 ---
 
@@ -36,5 +36,5 @@
 
 ---
 
-> "The best system architect knows when to let the design breathe—simplicity drives reliability."  
-> — **Petrov Protocol**
+> "The best 'System Architect' is the human who knows when to say 'No' to the machine."
+> — **The Petrov Protocol**
