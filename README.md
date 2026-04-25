@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:002f6c,100:0056b3&text=Input%20text&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=45&desc=EST.%202026&descSize=20&descAlign=50&descAlignY=65&stroke=001f44&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=soft&height=225&color=34749e&text=HI,%20I'm%20Ayan.&fontColor=f0f0f0&descAlign=60&section=header&fontAlign=35&fontAlignY=40&stroke=074066&strokeWidth=0.1&reversal=false)
