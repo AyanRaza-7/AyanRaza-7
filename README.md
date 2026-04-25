@@ -26,6 +26,6 @@ industry_background:
     "Intern - Web Scraper by Python,HTML and JavaScript"
   ]
   
-Goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Solutions and Wait for AGI & ASI"]
+goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Solutions and Wait for AGI & ASI"]
 hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ```
