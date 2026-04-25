@@ -48,11 +48,9 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 <a href="mailto:ask.ayanraza.7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge" />
 </a>
-
 <a href="https://linkedin.com/in/ayanraza7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge" />
 </a>
-
 <a href="https://yourwebsite.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-111111?style=for-the-badge" />
 </a>
