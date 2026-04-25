@@ -29,5 +29,19 @@ industry_background:
 goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Solutions and Wait for AGI & ASI"]
 hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ```
----
+
 <h2>Tools and Technologies</h2>
+
+
+            <i class="devicon-python-plain-wordmark colored"></i>
+          
+            <i class="devicon-bash-plain colored"></i>
+          
+            <i class="devicon-c-original colored"></i>
+          
+            <i class="devicon-cplusplus-plain colored"></i>
+          
+            <i class="devicon-git-plain colored"></i>
+          
+            <i class="devicon-archlinux-plain colored"></i>
+          
