@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=34749e&text=HI,%20I'm%20Ayan.&fontColor=f0f0f0&descAlign=60&section=header&fontAlign=35&fontAlignY=40&stroke=074066&strokeWidth=0.1&reversal=false)
 
----
 <h2>Who am I?</h2>
 
 ```yaml
@@ -43,3 +42,11 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<h2>Tools and Technologies</h2>
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask.ayanraza.7@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanraza7)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
