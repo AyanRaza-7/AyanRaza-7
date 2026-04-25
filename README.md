@@ -20,9 +20,9 @@ fields_of_work:
   ]
 industry_background:
   [
-    "Private Startup - General Partnership & Co-Founder"
-    "Contract - Data Scientist"
-    "Intern - Web Scraper by Python,HTML and JavaScript"
+    "Private Startup - General Partnership & Co-Founder",
+    "Contract - Data Scientist",
+    "Intern - Web Scraper by Python,HTML and JavaScript",
   ]
   
 goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Solutions and Wait for AGI & ASI"]
@@ -53,4 +53,4 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 > “The people who are crazy enough to think they can change the world are the ones who do.”
 > — Steve Jobs
 ---
-![footer](https://capsule-render.vercel.app/api?type=rect&height=90&color=34749e&text=Thanks%20for%20visiting.%20Have%20a%20great%20day.&fontColor=f0f0f0&section=footer&fontAlign=65&fontAlignY=60&stroke=074066&strokeWidth=0.1&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=rect&height=80&color=34749e&text=Thanks%20for%20visiting.%20Have%20a%20great%20day.&fontColor=f0f0f0&section=footer&fontAlign=40&fontAlignY=35&stroke=074066&strokeWidth=0.1&fontSize=20)
