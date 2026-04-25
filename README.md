@@ -53,4 +53,4 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 > “The people who are crazy enough to think they can change the world are the ones who do.”
 > — Steve Jobs
 ---
-![footer](https://capsule-render.vercel.app/api?type=rect&height=80&color=34749e&text=Thanks%20For%20Visiting.Have%20A%20Great%20Day&fontSize=20&reversal=true&fontAlign=65&fontAlignY=60&fontColor=f0f0f0)
+![footer](https://capsule-render.vercel.app/api?type=rect&height=80&color=34749e&text=Thanks%20For%20Visiting.%20Have%20A%20Great%20Day&fontSize=20&reversal=true&fontAlign=65&fontAlignY=60&fontColor=f0f0f0)
