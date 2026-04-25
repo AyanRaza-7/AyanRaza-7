@@ -49,4 +49,4 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanraza7)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yourwebsite.com)
