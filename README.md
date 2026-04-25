@@ -3,3 +3,11 @@
 ---
 <h2>Who am I?</h2>
 
+```json
+{
+  "name": "Your Name",
+  "role": "Full Stack Developer",
+  "location": "Earth",
+  "skills": ["JavaScript", "Python", "React", "Node.js"],
+  "hobbies": ["Coding", "Hiking", "Coffee"]
+}
