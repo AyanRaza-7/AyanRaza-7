@@ -43,7 +43,7 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2>Tools and Technologies</h2>
+<h2>Socials</h2>
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge)](mailto:ask.ayanraza.7@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge)](https://linkedin.com/in/ayanraza7) 
