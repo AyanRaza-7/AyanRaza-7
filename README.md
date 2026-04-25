@@ -48,9 +48,9 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge)](mailto:ask.ayanraza.7@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge)](https://linkedin.com/in/ayanraza7) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-111111?style=for-the-badge)](https://yourwebsite.com)
-
 <h2></h2>
 
 > “The people who are crazy enough to think they can change the world are the ones who do.”
 > — Steve Jobs
 ---
+![footer](https://capsule-render.vercel.app/api?type=rect&height=50&color=34749e&fontColor=f0f0f0&descAlign=60&section=header&fontAlign=35&fontAlignY=40&stroke=074066&strokeWidth=0.1&reversal=false)
