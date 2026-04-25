@@ -4,36 +4,28 @@
 <h2>Who am I?</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Ayan Raza
+located_in: Karachi, Pakistan
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught AI Engineer and Entrepreneur",
+    "O Levels in Computer Sciences, Business Administration and General Physics",
   ]
-company: Soulber
 
-fields_of_interests:
+fields_of_work:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "AI, ML & DL",
+    "Systems Architect",
+    "Programming with Python & C",
+    "Business Administration & Management",
   ]
-technical_background:
+industry_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Private Startup - General Partnership & Co-Founder"
+    "Contract - Data Scientist"
+    "Intern - Web Scraper by Python,HTML and JavaScript"
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+Goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Solutions and Wait for AGI & ASI"]
+hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ```
