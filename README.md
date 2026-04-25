@@ -31,7 +31,6 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ```
 
 <h2>Tools and Technologies</h2>
-<h2>Tools and Technologies</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -41,16 +40,3 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
-
-<i class="devicon-python-plain-wordmark colored"></i>
-
-<i class="devicon-bash-plain colored"></i>
-
-<i class="devicon-c-original colored"></i>
-
-<i class="devicon-cplusplus-plain colored"></i>
-
-<i class="devicon-git-plain colored"></i>
-
-<i class="devicon-archlinux-plain colored"></i>
-          
