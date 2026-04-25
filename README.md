@@ -29,3 +29,4 @@ industry_background:
 goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Solutions and Wait for AGI & ASI"]
 hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ```
+---
