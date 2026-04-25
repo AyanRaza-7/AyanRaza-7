@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=29&text=Hi&fontColor=282829&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:002f6c,100:0056b3&text=Input%20text&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=45&desc=EST.%202026&descSize=20&descAlign=50&descAlignY=65&stroke=001f44&strokeWidth=1)
