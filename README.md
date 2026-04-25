@@ -30,3 +30,4 @@ goals: ["Explore Emerging Technologies, Innovate Effective Buissnes/Consumer Sol
 hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 ```
 ---
+<h2>Tools and Technologies</h2>
