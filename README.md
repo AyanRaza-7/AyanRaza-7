@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=34749e&text=HI,%20I'm%20Ayan.&fontColor=f0f0f0&descAlign=60&section=header&fontAlign=35&fontAlignY=40&stroke=074066&strokeWidth=0.1&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=34749e&text=HI,%20I'm%20Ayan.&fontColor=f0f0f0&descAlign=60&section=header&fontAlign=20&fontAlignY=45&stroke=074066&strokeWidth=0.1&reversal=false)
 
 <h2>Who am I?</h2>
 
@@ -53,4 +53,3 @@ hobbies: ["Reading", "Parkour", "Public Communication", "TED"]
 > “The people who are crazy enough to think they can change the world are the ones who do.”
 > — Steve Jobs
 ---
-![footer](https://capsule-render.vercel.app/api?type=rect&height=80&color=34749e&text=Thanks%20For%20Visiting.%20Have%20A%20Great%20Day&fontSize=20&reversal=true&fontAlign=65&fontAlignY=60&fontColor=f0f0f0)
